@@ -1,6 +1,6 @@
 # animations
 
-Some animations I have made. You are free to use these for educational purposes, with attribution.
+Some animations I have made. You are welcome to use these for educational or press purposes, with attribution.
 
 <b> tonga_wave_labeled </b>
 
