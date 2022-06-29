@@ -13,3 +13,8 @@ Based on 10-minute GOES-West IR (band 13) data, from 4 UTC - 10:50 UTC, 15 Janua
 Atmospheric response to Tonga eruption going in to and out of the antipodal point over North Africa
 
 EUMETSAT IR data, 18 UTC 15 Jan - 2 UTC 16 Jan, 15-minute differences. Faster animation rate than the initial response animation, as the wave front is more difficult to see.
+
+
+<b> tonga_2_sat </b>
+
+Combination of GOES-West and Meteosat 11 to show the first 60 hours of global atmospheric response, beginning at 4 UTC on 15 January 2022.
