@@ -1,6 +1,6 @@
 # animations
 
-Some animations I have made. You are welcome to use these for educational or press purposes, with attribution.
+Some animations I have made. You are welcome to freely use these for educational or press purposes, with attribution to "Mathew Barlow, University of Massachusetts Lowell."
 
 <b> tonga_wave_labeled </b>
 
