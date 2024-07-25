@@ -2,6 +2,10 @@
 
 Some animations I have made. You are welcome to freely use these for educational or press purposes, with attribution to "Mathew Barlow, University of Massachusetts Lowell."
 
+<b> hgt_anim.gif </b>
+
+This animation takes a 2D figure of 500 hPa heights and winds and adds 3D perspective to the elevation of the height field. (Vertical scale greatly exagerated.) The original figure was made in python and the animation was made in Blender.
+
 <b> tonga_wave_labeled </b>
 
 Initial atmospheric response to Tonga eruption
