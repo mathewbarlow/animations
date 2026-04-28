@@ -8,6 +8,12 @@ Animation of 9-day simulation of baroclinic instability with SpeedyWeather: dry 
 
 <img width="400" src="speedyweather_baroclinic_instability.gif">  
 
+<b> speedyweather_baroclinic_instability_slp.gif </b>
+
+Animation of 9-day simulation of baroclinic instability with SpeedyWeather: dry primative equations, dynamics only, Jablonowski-Williamson initial conditions with small perturbation, T42L8 resolution. This version shows 500 hPa heights and sea level pressure.
+
+<img width="400" src="speedyweather_baroclinic_instability_slp.gif">  
+
 <b> hgt_anim.gif </b>
 
 This animation takes a 2D figure of 500 hPa heights and winds and adds 3D perspective to the elevation of the height field. (Vertical scale greatly exagerated.) The original figure was made in python and the animation was made in Blender.
