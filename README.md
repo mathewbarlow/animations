@@ -6,7 +6,7 @@ Some animations I have made. You are welcome to freely use these for educational
 
 Animation of 9-day simulation of baroclinic instability with SpeedyWeather: dry primative equations, dynamics only, Jablonowski-Williamson initial conditions with small perturbation, T42L8 resolution. This version shows 500 hPa heights and 500 hPa vorticity.
 
-<img width="400" src="peedyweather_baroclinic_instability.gif">  
+<img width="400" src="speedyweather_baroclinic_instability.gif">  
 
 <b> hgt_anim.gif </b>
 
