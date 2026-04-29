@@ -8,7 +8,7 @@ See also my gallery of [atmospheric dynamics animations](https://storm.uml.edu/~
 
 Animation of 9-day simulation of baroclinic instability with [SpeedyWeather](https://speedyweather.github.io): dry primative equations, dynamics only, Jablonowski-Williamson initial conditions with small perturbation, T170L32 resolution. This version shows three contours of 500 hPa heights along the axis of the jet stream at that level and sea level pressure.
 
-<img width="400" src="speedy_baroclinic_instability_paraview.gif">  
+<img width="200" src="speedy_baroclinic_instability_paraview.gif">  
 
 <b> speedyweather_baroclinic_instability.gif </b>
 
