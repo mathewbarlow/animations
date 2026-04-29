@@ -4,6 +4,12 @@ Some animations I have made. You are welcome to freely use these for educational
 
 See also my gallery of [atmospheric dynamics animations](https://storm.uml.edu/~metweb/newBlog/wordpress/2020/05/14/gallery-of-atmospheric-dynamics-animations/).
 
+<b> speedy_baroclinic_instability_paraview.gif </b>
+
+Animation of 9-day simulation of baroclinic instability with [SpeedyWeather](https://speedyweather.github.io): dry primative equations, dynamics only, Jablonowski-Williamson initial conditions with small perturbation, T170L32 resolution. This version shows three contours of 500 hPa heights along the axis of the jet stream at that level and sea level pressure.
+
+<img width="400" src="speedy_baroclinic_instability_paraview.gif.gif">  
+
 <b> speedyweather_baroclinic_instability.gif </b>
 
 Animation of 9-day simulation of baroclinic instability with [SpeedyWeather](https://speedyweather.github.io): dry primative equations, dynamics only, Jablonowski-Williamson initial conditions with small perturbation, T42L8 resolution. This version shows 500 hPa heights and 500 hPa vorticity.
