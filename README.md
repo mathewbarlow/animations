@@ -4,6 +4,12 @@ Some animations I have made. You are welcome to freely use these for educational
 
 See also my gallery of [atmospheric dynamics animations](https://storm.uml.edu/~metweb/newBlog/wordpress/2020/05/14/gallery-of-atmospheric-dynamics-animations/).
 
+<b> era5_pwat_small.gif </b>
+
+One week of precipitable water from ERA5 hourly data, made with ParaView.
+
+<img width="400" src="era5_pwat_small.gif"> 
+
 <b> hrrr_smoke_20Z_20_June_2025.gif </b>
 
 3D animation of HRRR smoke mass density for 20 UTC 10 June 2025, made with ParaView.
